@@ -5,7 +5,7 @@ const open = require('opn');
 
 const web = 'https://shellhacks.net';
 const wtp = 'https://shellhacks-2018.devpost.com/';
-const github = 'https://github.com/ShellHackFIU';
+const github = 'https://github.com/ShellHacksFIU';
 const discord = 'https://discordapp.com/invite/upefiu';
 const badges = 'https://github.com/abranhe/shellhacks';
 
