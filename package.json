@@ -1,6 +1,6 @@
 {
   "name": "shellhacks",
-  "version": "2018.9.16-ALPHA",
+  "version": "2018.9.16",
   "description": "The ShellHacks CLI 🐚",
   "main": "cli.js",
   "scripts": {

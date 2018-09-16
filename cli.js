@@ -58,34 +58,24 @@ if(cli.flags.feedback) {
 if(cli.input[0] === 'badges') {
   open(badges);
   process.exit();
-} else {
-  cli.showHelp();
 }
 
 if(cli.input[0] === 'wtp') {
   open(wtp);
   process.exit();
-} else {
-  cli.showHelp();
 }
 
 if(cli.input[0] === 'discord') {
   open(discord);
   process.exit();
-} else {
-  cli.showHelp();
 }
 
 if(cli.input[0] === 'web') {
   open(web);
   process.exit();
-} else {
-  cli.showHelp();
 }
 
 if(cli.input[0] === 'github') {
   open(github);
   process.exit();
-} else {
-  cli.showHelp();
 }
