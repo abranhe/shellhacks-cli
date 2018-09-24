@@ -77,7 +77,7 @@ Example
 
 > ShellHacks logo is owned by [shelhacks.net](https://shelhacks.net)
 
-[MIT](https://github.com/abranhe/shellhacks-cli/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe/) & [The Hurricanes](https:/github.com/TheHurricanes)
+[MIT](https://github.com/abranhe/shellhacks-cli/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe/) & [The Hurricanes](https://github.com/TheHurricanes)
 
 <p align="center">
 	<a href="#top">🐚  TOP ⬆</a>
